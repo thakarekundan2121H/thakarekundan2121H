@@ -1,6 +1,6 @@
 # Hi, I'm Kundan Thakre 👋
 
-### 💻 BTech 2nd Year Student | Aspiring AI Engineer
+###  BTech 2nd Year Student | Aspiring AI Engineer
 
 I'm a second-year BTech Engineering student passionate about **Software Development, Data Analytics, and Artificial Intelligence**.
 
